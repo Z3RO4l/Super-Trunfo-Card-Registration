@@ -2,7 +2,9 @@
 #include <string.h>
 
 int main() {
+
     // Declaração das variáveis da carta A01
+    //desenvolvimento gradual ds cartas e seus atributos
     char Estado1[40];
     char Codigo1[10];
     char Cidadea[50];
